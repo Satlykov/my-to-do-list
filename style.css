@@ -22,3 +22,7 @@ body {
     width: 15%;
     margin: auto;
 }
+
+.done {
+ text-decoration: line-through;
+}
